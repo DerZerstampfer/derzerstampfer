@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derzerstampfer&label=Profile%20views&color=0e75b6&style=flat" alt="derzerstampfer" /> </p>
 
-- 🔭 I’m currently working on [Sharrings](https://sharrin.gs/)
+- 🔭 I’m currently working on [Brandix AI](https://brandix.ai/) and [Sharrings](https://sharrin.gs/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
